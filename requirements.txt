@@ -1,1 +1,2 @@
 pyparsing>=2.2.0
+decorator>=3.4
