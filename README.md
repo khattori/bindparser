@@ -6,3 +6,5 @@ Parser for named.conf and zone files
 $ unit2
 
 # How to use
+
+import bindparser as bp
